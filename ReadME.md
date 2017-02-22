@@ -1,0 +1,1 @@
+# Batch setting Vcxproj Unicode
